@@ -1,13 +1,12 @@
-#!/usr/bin/env python
-
-try:
-    from setuptools import setup
-except ImportError:
-    from ez_setup import use_setuptools
-    use_setuptools()
-    from setuptools import setup
-
+from setuptools import find_packages, setup
 setup(
-    setup_requires=['setup.cfg'],
-    setup_cfg='setup.cfg'
+    name='gscholar_search',
+    packages=find_packages(),
+    version='0.1.0',
+    description='Program to search and parse google scholar results',
+    author='Onur Kara',
+    license='MIT',
+    setup_requires=['pytest-runner'],
+    tests_require=['pytest==7.1.1'],
+    test_suite='tests',
 )
