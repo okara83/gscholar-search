@@ -54,7 +54,7 @@ class ScholarListener:
         self.save_to_csv = save_to_csv
 
     def scholar_search(self):
-        apikey = "7ff2bdcee22d088ecbb5a04c1bf86246bb70ab43a6e69c7cb5984154b3234a74"
+        apikey = ""
         scraped_time = datetime.now().strftime("%h-%d-%Y")
         output = {}
         headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9'}
