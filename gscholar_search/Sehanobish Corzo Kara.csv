@@ -1,10 +1,9 @@
-,0
-0,https://arxiv.org/abs/2106.08138
-1,https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_38.pdf
-2,https://iopscience.iop.org/article/10.1088/0256-307X/38/11/110301/meta
-3,https://www.scipost.org/SciPostPhysCore.4.3.022
-4,https://arxiv.org/abs/2012.03019
-5,https://journals.jps.jp/doi/abs/10.7566/JPSJ.90.093001
-6,https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.165116
-7,https://arxiv.org/abs/2201.06676
-8,https://www.sciencedirect.com/science/article/pii/S1007570421003014
+URL,Title,Publication Date,
+https://arxiv.org/abs/2106.08138,Learning Full Configuration Interaction Electron Correlations with Deep Learning,Nov-21,
+https://iopscience.iop.org/article/10.1088/0256-307X/38/11/110301/meta,Deep Learning Quantum States for Hamiltonian Estimation,Nov-21,
+https://www.scipost.org/SciPostPhysCore.4.3.022,Predicting quantum potentials by deep neural network and metropolis sampling,Sep-21,
+https://arxiv.org/abs/2012.03019,Deep learning Local Reduced Density Matrices for Many-body Hamiltonian Estimation,Aug-21,
+https://journals.jps.jp/doi/abs/10.7566/JPSJ.90.093001,Neural Network Approach to Construction of Classical Integrable Systems,Aug-21,
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.165116,Functional tensor network solving many-body Schrödinger equation ,Apr-22,
+https://arxiv.org/abs/2201.06676,Observing how deep neural networks understand physics through the energy spectrum of one-dimensional quantum mechanics,Jan-22,
+https://www.sciencedirect.com/science/article/pii/S1007570421003014,Deep learning methods for the computation of vibrational wavefunctions,Dec-21,
