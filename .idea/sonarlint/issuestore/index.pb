@@ -15,5 +15,3 @@ K
 gscholar_search/gssearch.py,e/6/e6ddf5a3bbe5e930fe0fb8433bd7515bba08bfa3
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-b
-2gscholar_search/Sehanobish Corzo Kara--Apr-27-2022,3/1/31a1712ae3fcf7d8e8b4828b015f75e78444bc0d
