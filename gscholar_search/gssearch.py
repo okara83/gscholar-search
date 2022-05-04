@@ -47,11 +47,13 @@ from bs4 import BeautifulSoup
 import json
 
 class ScholarListener:
-    def __init__(self,query_list=None,save_to_json=True,save_to_csv=False,return_output_object=False):
-        self.query_list = query_list
-        self.return_output_object = return_output_object
-        self.save_to_json = save_to_json
-        self.save_to_csv = save_to_csv
+    query_list=None
+    save_to_json=True
+    save_to_csv=False
+    return_output_object=False
+    
+    def __init__(self):
+        pass
 
     def scholar_search(self):
         apikey = ""
